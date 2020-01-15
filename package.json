@@ -1,0 +1,23 @@
+{
+  "name": "symmetrical-dollop",
+  "version": "1.0.0",
+  "description": "throwaway, i just need a webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinying/symmetrical-dollop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinying/symmetrical-dollop/issues"
+  },
+  "homepage": "https://github.com/chinying/symmetrical-dollop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
